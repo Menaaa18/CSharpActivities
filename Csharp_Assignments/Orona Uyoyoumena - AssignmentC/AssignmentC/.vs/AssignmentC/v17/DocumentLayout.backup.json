@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - AssignmentC\\AssignmentC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD02087B-4F90-4D59-98C8-5D99AEA5AD17}|AssignmentC\\AssignmentC.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - assignmentc\\assignmentc\\assignmentc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD02087B-4F90-4D59-98C8-5D99AEA5AD17}|AssignmentC\\AssignmentC.csproj|solutionrelative:assignmentc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - AssignmentC\\AssignmentC\\AssignmentC\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentC\\Program.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - AssignmentC\\AssignmentC\\AssignmentC\\Program.cs",
+              "RelativeToolTip": "AssignmentC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T03:47:54.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
