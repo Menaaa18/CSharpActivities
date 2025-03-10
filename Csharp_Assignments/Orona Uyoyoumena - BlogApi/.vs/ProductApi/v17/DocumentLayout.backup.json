@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\productapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|solutionrelative:productapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\productapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|solutionrelative:productapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\domainlayer\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\productapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|solutionrelative:productapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\productapi\\controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|solutionrelative:productapi\\controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|solutionrelative:productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -59,15 +79,7 @@
       "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\domainlayer\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mr benson\\AppData\\Local\\Temp\\.vsdbgsrc\\d7e094135bd91775b2afb1826e2ec0afeed488d701c4cd3cd9fcc9610a1579f9\\DUCE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\productapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|solutionrelative:productapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\domainlayer\\domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -85,36 +97,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Repository\\AuthorRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\AuthorRepository.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Repository\\AuthorRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Repository\\AuthorRepository.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAnwDAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ProductApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T12:38:54.509Z",
+              "WhenOpened": "2025-03-10T04:31:55.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "DataAccessLayer\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\PostController.cs",
+              "RelativeToolTip": "ProductApi\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T20:12:30.269Z"
+              "WhenOpened": "2025-03-10T04:31:32.576Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "LikeController.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\LikeController.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Controllers\\LikeController.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\LikeController.cs",
+              "RelativeToolTip": "ProductApi\\Controllers\\LikeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:31:11.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\User.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\User.cs",
@@ -126,19 +152,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "BaseModel.cs",
               "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\BaseModel.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\BaseModel.cs",
               "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\BaseModel.cs",
               "RelativeToolTip": "DomainLayer\\Models\\BaseModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T14:50:07.2Z"
+              "WhenOpened": "2025-03-05T14:50:07.2Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProductApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:00:19.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:12:30.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Repository\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Repository\\AuthorRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\AuthorRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAnwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:38:54.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\Comment.cs",
@@ -150,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\appsettings.json",
               "RelativeDocumentMoniker": "ProductApi\\appsettings.json",
@@ -163,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "20250309121423_initial-migration.cs",
               "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Migrations\\20250309121423_initial-migration.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20250309121423_initial-migration.cs",
@@ -175,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Author.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\Author.cs",
@@ -187,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "IAuthorRepository.cs",
               "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\IRepository\\IAuthorRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\IRepository\\IAuthorRepository.cs",
@@ -199,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "DataAccessLayer.csproj",
               "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\DataAccessLayer.csproj",
               "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
@@ -211,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Post.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\Post.cs",
@@ -223,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Program.cs",
               "RelativeDocumentMoniker": "ProductApi\\Program.cs",
@@ -235,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "BlogApi.csproj",
               "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\BlogApi.csproj",
               "RelativeDocumentMoniker": "ProductApi\\BlogApi.csproj",
@@ -247,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "ProductApi\\WeatherForecast.cs",
@@ -259,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Like.cs",
               "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Like.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\Like.cs",
@@ -271,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "DUCE.cs",
               "DocumentMoniker": "C:\\Users\\mr benson\\AppData\\Local\\Temp\\.vsdbgsrc\\d7e094135bd91775b2afb1826e2ec0afeed488d701c4cd3cd9fcc9610a1579f9\\DUCE.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d7e094135bd91775b2afb1826e2ec0afeed488d701c4cd3cd9fcc9610a1579f9\\DUCE.cs",
@@ -284,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Genre.cs",
               "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Genre.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\Genre.cs",
@@ -296,19 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "ProductApi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "ProductApi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T12:00:19.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "DomainLayer.csproj",
               "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DomainLayer.csproj",
               "RelativeDocumentMoniker": "DomainLayer\\DomainLayer.csproj",

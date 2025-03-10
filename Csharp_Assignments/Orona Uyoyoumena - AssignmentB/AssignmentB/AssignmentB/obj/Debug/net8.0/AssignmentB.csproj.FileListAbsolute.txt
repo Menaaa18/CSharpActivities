@@ -1,0 +1,15 @@
+C:\Users\mr benson\Desktop\CSHARP\CSharpActivities\Csharp_Assignments\Orona Uyoyoumena - AssignmentB\AssignmentB\AssignmentB\bin\Debug\net8.0\AssignmentB.exe
+C:\Users\mr benson\Desktop\CSHARP\CSharpActivities\Csharp_Assignments\Orona Uyoyoumena - AssignmentB\AssignmentB\AssignmentB\bin\Debug\net8.0\AssignmentB.deps.json
+C:\Users\mr benson\Desktop\CSHARP\CSharpActivities\Csharp_Assignments\Orona Uyoyoumena - AssignmentB\AssignmentB\AssignmentB\bin\Debug\net8.0\AssignmentB.runtimeconfig.json
+C:\Users\mr benson\Desktop\CSHARP\CSharpActivities\Csharp_Assignments\Orona Uyoyoumena - AssignmentB\AssignmentB\AssignmentB\bin\Debug\net8.0\AssignmentB.dll
+C:\Users\mr benson\Desktop\CSHARP\CSharpActivities\Csharp_Assignments\Orona Uyoyoumena - AssignmentB\AssignmentB\AssignmentB\bin\Debug\net8.0\AssignmentB.pdb
+C:\Users\mr benson\Desktop\CSHARP\CSharpActivities\Csharp_Assignments\Orona Uyoyoumena - AssignmentB\AssignmentB\AssignmentB\obj\Debug\net8.0\AssignmentB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mr benson\Desktop\CSHARP\CSharpActivities\Csharp_Assignments\Orona Uyoyoumena - AssignmentB\AssignmentB\AssignmentB\obj\Debug\net8.0\AssignmentB.AssemblyInfoInputs.cache
+C:\Users\mr benson\Desktop\CSHARP\CSharpActivities\Csharp_Assignments\Orona Uyoyoumena - AssignmentB\AssignmentB\AssignmentB\obj\Debug\net8.0\AssignmentB.AssemblyInfo.cs
+C:\Users\mr benson\Desktop\CSHARP\CSharpActivities\Csharp_Assignments\Orona Uyoyoumena - AssignmentB\AssignmentB\AssignmentB\obj\Debug\net8.0\AssignmentB.csproj.CoreCompileInputs.cache
+C:\Users\mr benson\Desktop\CSHARP\CSharpActivities\Csharp_Assignments\Orona Uyoyoumena - AssignmentB\AssignmentB\AssignmentB\obj\Debug\net8.0\AssignmentB.sourcelink.json
+C:\Users\mr benson\Desktop\CSHARP\CSharpActivities\Csharp_Assignments\Orona Uyoyoumena - AssignmentB\AssignmentB\AssignmentB\obj\Debug\net8.0\AssignmentB.dll
+C:\Users\mr benson\Desktop\CSHARP\CSharpActivities\Csharp_Assignments\Orona Uyoyoumena - AssignmentB\AssignmentB\AssignmentB\obj\Debug\net8.0\refint\AssignmentB.dll
+C:\Users\mr benson\Desktop\CSHARP\CSharpActivities\Csharp_Assignments\Orona Uyoyoumena - AssignmentB\AssignmentB\AssignmentB\obj\Debug\net8.0\AssignmentB.pdb
+C:\Users\mr benson\Desktop\CSHARP\CSharpActivities\Csharp_Assignments\Orona Uyoyoumena - AssignmentB\AssignmentB\AssignmentB\obj\Debug\net8.0\AssignmentB.genruntimeconfig.cache
+C:\Users\mr benson\Desktop\CSHARP\CSharpActivities\Csharp_Assignments\Orona Uyoyoumena - AssignmentB\AssignmentB\AssignmentB\obj\Debug\net8.0\ref\AssignmentB.dll

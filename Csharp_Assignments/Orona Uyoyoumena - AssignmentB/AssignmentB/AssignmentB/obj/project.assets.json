@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - AssignmentB\\AssignmentB\\AssignmentB\\AssignmentB.csproj",
+      "projectUniqueName": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - AssignmentB\\AssignmentB\\AssignmentB\\AssignmentB.csproj",
       "projectName": "AssignmentB",
-      "projectPath": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - AssignmentB\\AssignmentB\\AssignmentB\\AssignmentB.csproj",
+      "projectPath": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - AssignmentB\\AssignmentB\\AssignmentB\\AssignmentB.csproj",
       "packagesPath": "C:\\Users\\mr benson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - AssignmentB\\AssignmentB\\AssignmentB\\obj\\",
+      "outputPath": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - AssignmentB\\AssignmentB\\AssignmentB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

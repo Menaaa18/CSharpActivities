@@ -8,66 +8,55 @@ namespace AssignmentB
 {
     public class Stack : IStack
     {
-        private object[] _stackArray = new object[2]; // Initial array to store stack elements
-        private int _size = 0; // Tracks the number of elements in the stack
+        private object[] _items = new object[2];
+        private int _count = 0;
 
-        // Push: Adds an element to the stack
-        public void Push(object item)
+        public void Push(object obj)
         {
-            if (item == null)
+            if (obj == null)
                 throw new InvalidOperationException("Cannot add null to the stack.");
 
-            // If the array is full, double its size
-            if (_size == _stackArray.Length)
-                ExpandArray();
+            //Resizes array if full
+            if (_count == _items.Length)
+                Resize();
 
-            _stackArray[_size] = item; // Store the item
-            _size++; // Increase the size count
+            _items[_count] = obj;
+            _count++;
         }
 
-        // Pop: Removes and returns the last added element (LIFO)
         public object Pop()
         {
-            if (_size == 0)
+            if (_count == 0)
                 throw new InvalidOperationException("Stack is empty.");
 
-            _size--; // Decrement size before retrieving the last item
-            var lastItem = _stackArray[_size]; // Retrieve last item
-            _stackArray[_size] = null; // Remove reference for garbage collection
-            return lastItem; // Return the popped item
+            var lastItem = _items[--_count];
+            _items[_count] = null;
+            return lastItem;
         }
 
-        // Clear: Empties the entire stack
         public void Clear()
         {
-            for (int i = 0; i < _size; i++)
-                _stackArray[i] = null; // Remove all items
+            for (int i = 0; i < _count; i++)
+                _items[i] = null;
 
-            _size = 0; // Reset stack size
+            _count = 0;
         }
 
-        // ExpandArray: Doubles the size of the array when full
-        private void ExpandArray()
+        private void Resize()
         {
-            Array.Resize(ref _stackArray, _stackArray.Length * 2);
-        }
-
-        // DisplayArray: Prints all elements in the stack
-        public void DisplayStack()
-        {
-            foreach (var element in _stackArray)
-            {
-                if (element == null) // Ignore null values
-                    continue;
-
-                Console.Write($"{element} "); // Print element
-            }
-            Console.WriteLine(); // New line after displaying elements
+            Array.Resize(ref _items, _items.Length * 2);
         }
 
         public void DisplayArray()
         {
-            throw new NotImplementedException();
+            foreach (var item in _items)
+            {
+                if (item == null)
+                    continue;
+
+                Console.Write($"{item} ");
+            }
         }
+
     }
 }

@@ -1,92 +1,116 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\",
+  "WorkspaceRootPath": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\productapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|solutionrelative:productapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\productapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|solutionrelative:productapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\domainlayer\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\productapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\productapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|solutionrelative:productapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\productapi\\controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\productapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|solutionrelative:productapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\productapi\\controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|solutionrelative:productapi\\controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|solutionrelative:productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\dataaccesslayer\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\domainlayer\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\domainlayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\domainlayer\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\dataaccesslayer\\irepository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\irepository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\dataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\domainlayer\\dto\\userdto\\updaterequestcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\userdto\\updaterequestcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\domainlayer\\dto\\userdto\\deleterequestcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\userdto\\deleterequestcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\domainlayer\\dto\\userdto\\createrequestcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\userdto\\createrequestcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\domainlayer\\dto\\postdto\\updatepostrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\postdto\\updatepostrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\domainlayer\\dto\\postdto\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\postdto\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\domainlayer\\dto\\postdto\\deletepostrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\postdto\\deletepostrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\domainlayer\\dto\\postdto\\createpostrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\postdto\\createpostrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\domainlayer\\dto\\likedto\\likedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\likedto\\likedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\domainlayer\\domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\domainlayer\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|solutionrelative:productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\dataaccesslayer\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\domainlayer\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\domainlayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\domainlayer\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\dataaccesslayer\\irepository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\irepository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\dataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\productapi\\blogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\productapi\\blogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|solutionrelative:productapi\\blogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\productapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C96229F2-FF6D-40ED-8D4E-B789B1F4D663}|ProductApi\\BlogApi.csproj|solutionrelative:productapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\domainlayer\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\domainlayer\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\domainlayer\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\domainlayer\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\domainlayer\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\domainlayer\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mr benson\\AppData\\Local\\Temp\\.vsdbgsrc\\d7e094135bd91775b2afb1826e2ec0afeed488d701c4cd3cd9fcc9610a1579f9\\DUCE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\domainlayer\\domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E680EB8D-B524-4548-A197-4C89661513B4}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\orona uyoyoumena - blogapi\\dataaccesslayer\\migrations\\20250309121423_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - blogapi\\dataaccesslayer\\migrations\\20250309121423_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7916B1A-DF6C-496F-8E4A-74E31AA1C495}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20250309121423_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -97,28 +121,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "ProductApi\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\UserController.cs",
-              "RelativeToolTip": "ProductApi\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "UpdateRequestCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DTO\\UserDTO\\UpdateRequestCategoryDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\UserDTO\\UpdateRequestCategoryDto.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DTO\\UserDTO\\UpdateRequestCategoryDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\UserDTO\\UpdateRequestCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T04:31:55.82Z",
+              "WhenOpened": "2025-03-10T06:32:19.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PostController.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\PostController.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\PostController.cs",
               "RelativeDocumentMoniker": "ProductApi\\Controllers\\PostController.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\PostController.cs",
               "RelativeToolTip": "ProductApi\\Controllers\\PostController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,24 +151,166 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "LikeController.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\LikeController.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\LikeController.cs",
               "RelativeDocumentMoniker": "ProductApi\\Controllers\\LikeController.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\LikeController.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\LikeController.cs",
               "RelativeToolTip": "ProductApi\\Controllers\\LikeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T04:31:11.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T20:09:33.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ProductApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:31:55.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteRequestCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DTO\\UserDTO\\DeleteRequestCategoryDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\UserDTO\\DeleteRequestCategoryDto.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DTO\\UserDTO\\DeleteRequestCategoryDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\UserDTO\\DeleteRequestCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T06:31:08.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateRequestCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DTO\\UserDTO\\CreateRequestCategoryDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\UserDTO\\CreateRequestCategoryDto.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DTO\\UserDTO\\CreateRequestCategoryDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\UserDTO\\CreateRequestCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T06:30:13.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdatePostRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DTO\\PostDTO\\UpdatePostRequest.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\PostDTO\\UpdatePostRequest.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DTO\\PostDTO\\UpdatePostRequest.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\PostDTO\\UpdatePostRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T06:26:17.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DTO\\PostDTO\\PostDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\PostDTO\\PostDto.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DTO\\PostDTO\\PostDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\PostDTO\\PostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T06:25:34.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeletePostRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DTO\\PostDTO\\DeletePostRequest.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\PostDTO\\DeletePostRequest.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DTO\\PostDTO\\DeletePostRequest.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\PostDTO\\DeletePostRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T06:24:34.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreatePostRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DTO\\PostDTO\\CreatePostRequest.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\PostDTO\\CreatePostRequest.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DTO\\PostDTO\\CreatePostRequest.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\PostDTO\\CreatePostRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T06:23:37.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LikeDto.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DTO\\LikeDTO\\LikeDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\LikeDTO\\LikeDto.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DTO\\LikeDTO\\LikeDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\LikeDTO\\LikeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T06:22:31.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\BaseModel.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:50:07.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DomainLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DomainLayer.csproj",
+              "RelativeDocumentMoniker": "DomainLayer\\DomainLayer.csproj",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DomainLayer.csproj",
+              "RelativeToolTip": "DomainLayer\\DomainLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T14:48:36.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\User.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\User.cs",
               "RelativeToolTip": "DomainLayer\\Models\\User.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -152,37 +318,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\BaseModel.cs",
-              "RelativeDocumentMoniker": "DomainLayer\\Models\\BaseModel.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\BaseModel.cs",
-              "RelativeToolTip": "DomainLayer\\Models\\BaseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T14:50:07.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "ProductApi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "ProductApi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T12:00:19.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "DataAccessLayer\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -190,11 +330,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "AuthorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Repository\\AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Repository\\AuthorRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\AuthorRepository.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Repository\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Repository\\AuthorRepository.cs",
               "RelativeToolTip": "DataAccessLayer\\Repository\\AuthorRepository.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAnwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -202,11 +342,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Comment.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\Comment.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Comment.cs",
               "RelativeToolTip": "DomainLayer\\Models\\Comment.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -214,24 +354,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\ProductApi\\appsettings.json",
               "RelativeDocumentMoniker": "ProductApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\ProductApi\\appsettings.json",
               "RelativeToolTip": "ProductApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-05T14:32:15.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T14:32:15.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "20250309121423_initial-migration.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Migrations\\20250309121423_initial-migration.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Migrations\\20250309121423_initial-migration.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20250309121423_initial-migration.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Migrations\\20250309121423_initial-migration.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\Migrations\\20250309121423_initial-migration.cs",
               "RelativeToolTip": "DataAccessLayer\\Migrations\\20250309121423_initial-migration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -239,11 +378,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Author.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Author.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\Author.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Author.cs",
               "RelativeToolTip": "DomainLayer\\Models\\Author.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIAwwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -251,11 +390,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "IAuthorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\IRepository\\IAuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\IRepository\\IAuthorRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\IRepository\\IAuthorRepository.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\IRepository\\IAuthorRepository.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\IRepository\\IAuthorRepository.cs",
               "RelativeToolTip": "DataAccessLayer\\IRepository\\IAuthorRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -263,23 +402,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DataAccessLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\DataAccessLayer.csproj",
-              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DataAccessLayer\\DataAccessLayer.csproj",
-              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-08T20:09:33.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Post.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Post.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\Post.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Post.cs",
               "RelativeToolTip": "DomainLayer\\Models\\Post.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wBwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -287,11 +414,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\ProductApi\\Program.cs",
               "RelativeDocumentMoniker": "ProductApi\\Program.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\Program.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\ProductApi\\Program.cs",
               "RelativeToolTip": "ProductApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -299,35 +426,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "BlogApi.csproj",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\BlogApi.csproj",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\ProductApi\\BlogApi.csproj",
               "RelativeDocumentMoniker": "ProductApi\\BlogApi.csproj",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\BlogApi.csproj",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\ProductApi\\BlogApi.csproj",
               "RelativeToolTip": "ProductApi\\BlogApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-09T12:08:12.537Z"
+              "WhenOpened": "2025-03-09T12:08:12.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "ProductApi\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\ProductApi\\WeatherForecast.cs",
-              "RelativeToolTip": "ProductApi\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T12:00:50.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "Like.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Like.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Like.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\Like.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Like.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Like.cs",
               "RelativeToolTip": "DomainLayer\\Models\\Like.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -335,12 +451,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "DUCE.cs",
               "DocumentMoniker": "C:\\Users\\mr benson\\AppData\\Local\\Temp\\.vsdbgsrc\\d7e094135bd91775b2afb1826e2ec0afeed488d701c4cd3cd9fcc9610a1579f9\\DUCE.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d7e094135bd91775b2afb1826e2ec0afeed488d701c4cd3cd9fcc9610a1579f9\\DUCE.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d7e094135bd91775b2afb1826e2ec0afeed488d701c4cd3cd9fcc9610a1579f9\\DUCE.cs",
               "ToolTip": "C:\\Users\\mr benson\\AppData\\Local\\Temp\\.vsdbgsrc\\d7e094135bd91775b2afb1826e2ec0afeed488d701c4cd3cd9fcc9610a1579f9\\DUCE.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d7e094135bd91775b2afb1826e2ec0afeed488d701c4cd3cd9fcc9610a1579f9\\DUCE.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d7e094135bd91775b2afb1826e2ec0afeed488d701c4cd3cd9fcc9610a1579f9\\DUCE.cs [Read Only]",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T14:36:42.06Z",
@@ -348,27 +464,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Genre.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Genre.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - BlogApi\\DomainLayer\\Models\\Genre.cs",
               "RelativeToolTip": "DomainLayer\\Models\\Genre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T08:21:56.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DomainLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DomainLayer.csproj",
-              "RelativeDocumentMoniker": "DomainLayer\\DomainLayer.csproj",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\Orona Uyoyoumena - BlogApi\\DomainLayer\\DomainLayer.csproj",
-              "RelativeToolTip": "DomainLayer\\DomainLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T14:48:36.041Z"
             }
           ]
         }

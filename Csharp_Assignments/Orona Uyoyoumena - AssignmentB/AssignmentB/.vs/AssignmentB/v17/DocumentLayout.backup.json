@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mr benson\\Desktop\\CSHARP\\AssignmentB\\AssignmentB\\",
+  "WorkspaceRootPath": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - AssignmentB\\AssignmentB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F410142B-959A-4CD6-AEDF-1D7FDAD64CDB}|AssignmentB\\AssignmentB.csproj|c:\\users\\mr benson\\desktop\\csharp\\assignmentb\\assignmentb\\assignmentb\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F410142B-959A-4CD6-AEDF-1D7FDAD64CDB}|AssignmentB\\AssignmentB.csproj|solutionrelative:assignmentb\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F410142B-959A-4CD6-AEDF-1D7FDAD64CDB}|AssignmentB\\AssignmentB.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - assignmentb\\assignmentb\\assignmentb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F410142B-959A-4CD6-AEDF-1D7FDAD64CDB}|AssignmentB\\AssignmentB.csproj|solutionrelative:assignmentb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F410142B-959A-4CD6-AEDF-1D7FDAD64CDB}|AssignmentB\\AssignmentB.csproj|c:\\users\\mr benson\\desktop\\csharp\\assignmentb\\assignmentb\\assignmentb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F410142B-959A-4CD6-AEDF-1D7FDAD64CDB}|AssignmentB\\AssignmentB.csproj|solutionrelative:assignmentb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F410142B-959A-4CD6-AEDF-1D7FDAD64CDB}|AssignmentB\\AssignmentB.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - assignmentb\\assignmentb\\assignmentb\\istack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F410142B-959A-4CD6-AEDF-1D7FDAD64CDB}|AssignmentB\\AssignmentB.csproj|solutionrelative:assignmentb\\istack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F410142B-959A-4CD6-AEDF-1D7FDAD64CDB}|AssignmentB\\AssignmentB.csproj|c:\\users\\mr benson\\desktop\\csharp\\csharpactivities\\csharp_assignments\\orona uyoyoumena - assignmentb\\assignmentb\\assignmentb\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F410142B-959A-4CD6-AEDF-1D7FDAD64CDB}|AssignmentB\\AssignmentB.csproj|solutionrelative:assignmentb\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Stack.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\AssignmentB\\AssignmentB\\AssignmentB\\Stack.cs",
-              "RelativeDocumentMoniker": "AssignmentB\\Stack.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\AssignmentB\\AssignmentB\\AssignmentB\\Stack.cs",
-              "RelativeToolTip": "AssignmentB\\Stack.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IStack.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - AssignmentB\\AssignmentB\\AssignmentB\\IStack.cs",
+              "RelativeDocumentMoniker": "AssignmentB\\IStack.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - AssignmentB\\AssignmentB\\AssignmentB\\IStack.cs",
+              "RelativeToolTip": "AssignmentB\\IStack.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T18:18:42.663Z",
+              "WhenOpened": "2025-03-10T06:50:12.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\AssignmentB\\AssignmentB\\AssignmentB\\Program.cs",
-              "RelativeDocumentMoniker": "AssignmentB\\Program.cs",
-              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\AssignmentB\\AssignmentB\\AssignmentB\\Program.cs",
-              "RelativeToolTip": "AssignmentB\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - AssignmentB\\AssignmentB\\AssignmentB\\Stack.cs",
+              "RelativeDocumentMoniker": "AssignmentB\\Stack.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - AssignmentB\\AssignmentB\\AssignmentB\\Stack.cs*",
+              "RelativeToolTip": "AssignmentB\\Stack.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T18:18:14.581Z"
+              "WhenOpened": "2025-03-10T06:46:26.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - AssignmentB\\AssignmentB\\AssignmentB\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentB\\Program.cs",
+              "ToolTip": "C:\\Users\\mr benson\\Desktop\\CSHARP\\CSharpActivities\\Csharp_Assignments\\Orona Uyoyoumena - AssignmentB\\AssignmentB\\AssignmentB\\Program.cs*",
+              "RelativeToolTip": "AssignmentB\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T06:46:01.024Z",
+              "EditorCaption": ""
             }
           ]
         }
